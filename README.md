@@ -1,4 +1,4 @@
-exitus
+Exitus
 ======
 
-Some Issues and Milestones
+Some Issues and Milestones.
